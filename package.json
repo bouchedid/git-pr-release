@@ -21,17 +21,17 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grassedge/git-pr-release.git"
+    "url": "git+https://github.com/bouchedid/git-pr-release.git"
   },
   "keywords": [
     "github",
     "pull-request",
     "release"
   ],
-  "author": "grassedge",
+  "author": "bouchedid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grassedge/git-pr-release/issues"
+    "url": "https://github.com/bouchedid/git-pr-release/issues"
   },
-  "homepage": "https://github.com/grassedge/git-pr-release#readme"
+  "homepage": "https://github.com/bouchedid/git-pr-release#readme"
 }

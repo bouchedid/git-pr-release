@@ -1,10 +1,10 @@
 {
-  "name": "git-pr-release",
-  "version": "1.0.4",
+  "name": "git-pr-release-library",
+  "version": "1.0.0",
   "description": "Create a pull request for release",
   "main": "lib/index.js",
   "bin": {
-    "git-pr-release": "bin/main.js"
+    "git-pr-release-library": "bin/main.js"
   },
   "scripts": {
     "test": "jest"
@@ -21,7 +21,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bouchedid/git-pr-release.git"
+    "url": "git+https://github.com/bouchedid/git-pr-release-library.git"
   },
   "keywords": [
     "github",
@@ -31,7 +31,7 @@
   "author": "bouchedid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bouchedid/git-pr-release/issues"
+    "url": "https://github.com/bouchedid/git-pr-release-library/issues"
   },
-  "homepage": "https://github.com/bouchedid/git-pr-release#readme"
+  "homepage": "https://github.com/bouchedid/git-pr-release-library#readme"
 }
